@@ -26,5 +26,10 @@ Yes, under Section 166 of the Motor Vehicles Act, 1988, the claimants are entitl
 **Citation**:  
 > “as the age of the deceased at the time of accident was held to be about 54-55 years by the learned Tribunal, being self-employed, as such, 10% of annual income should have been awarded on account of future prospects.” (Para 7)
 
-## 📁 Project Structure
+## 🛠️ How to Run Locally
 
+```bash
+git clone https://github.com/mdnabeelMCA23/lexisg-frontend-intern-test.git
+cd lexisg-frontend-intern-test
+npm install
+npm start
